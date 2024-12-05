@@ -20,7 +20,7 @@ def main():
         menu = input("Select any number: ")
 
         if menu == '0':
-            print("Exiting Contact Manager. Goodbye!")
+            print("Exiting Contact Book Management System. Goodbye!")
             break
 
         elif menu == '1':
